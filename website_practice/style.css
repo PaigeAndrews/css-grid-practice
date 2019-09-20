@@ -38,17 +38,17 @@ text-decoration: none;
     margin-left: auto;
 }
 .green{
-background: green;
+    background: linear-gradient(#53af62 ,#87bb4c);
 }
 
 .red{
-background: red;
+    background: linear-gradient(#b5267e ,#b9052b);
 }
 
 .blue{
-background: blue;
+    background: linear-gradient(#69aaf1 ,#4591e8);
 }
 
 .yellow{
-    background: yellow;
+    background: linear-gradient(#e99e8c ,#ecb93b);
 }
